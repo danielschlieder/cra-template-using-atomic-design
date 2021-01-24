@@ -1,4 +1,4 @@
-# cra-template-atomic-react
+# CRA template using atomic design
 
 Table of contents
 

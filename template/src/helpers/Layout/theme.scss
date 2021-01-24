@@ -1,0 +1,11 @@
+@import "../../variables.scss";
+.theme-dark {
+    color: $light;
+    border-color: darken($light, 50) !important;
+    background-color: $dark !important;
+}
+.theme-light {
+    color: lighten($dark, 20) !important;
+    border-color: darken($dark, 50) !important;
+    background-color: $light !important;
+}
